@@ -1,7 +1,9 @@
 <h1 align="center">Привет! Меня зовут Эдуард</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я backend разработчик на python</h3>
-
+<div id="header" align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRtdGJjbHRmNDFkcndwazJ1dWwwaXo0c29vOTd3ZmFsZTVpeXhrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbQesBg4di7St1NbqY/giphy-downsized-large.gif" width="100"/>
+</div>
 <!--
 **Eduard-Golovash/Eduard-Golovash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
